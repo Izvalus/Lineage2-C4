@@ -1,0 +1,7 @@
+#Olympiad Properties
+#Wed Nov 25 18:19:50 EET 2015
+CurrentCycle=1
+NextWeeklyChange=1449073170739
+OlympiadEnd=1448964000739
+ValidationEnd=0
+Period=0
